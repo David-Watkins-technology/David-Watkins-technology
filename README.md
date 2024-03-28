@@ -34,13 +34,13 @@ This will initialise your directory as a Git repository. Type the following and 
 
 You will then be able to work on the project locally before uploading your commits to the remote repository as a new branch.
 
-To upload your commits, first create a new remote branch using the instructions above. Then, in your terminal type the following and press return:
+First, save your file using a different name to that in the remote repository. This will create a separate branch. After having revised the file, in your terminal type the following and press return:
 
-**git remote add [create an alias] [branch URL]**
+**git checkout -b [revised file name]**
 
 Then type the following in your terminal and press return:
 
-**git push [alias] [branch name]**
+**git push origin [revised branch name]**
 
 I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
 
