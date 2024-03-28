@@ -36,7 +36,7 @@ You will then be able to work on the project locally before uploading your commi
 
 First, save your file using a different name to that in the remote repository. Then add that file within the repository on your local machine using the terminal instruction:
 
-**git add new-file-name.suffix**
+**git add [new-file-name]**
 
 After having revised the file, in your terminal type the following and press return:
 
@@ -47,6 +47,8 @@ Then type the following in your terminal and press return:
 **git commit -m "Describe briefly the changes you made"**
 
 **git push origin [new-file-name]**
+
+NB. When adding file names, do not forget to include the suffix (for example, .py).
 
 I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
 
