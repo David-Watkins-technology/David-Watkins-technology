@@ -10,12 +10,37 @@
 
 ## The name of this project is David-Watkins-technology
 
-This project is to create a temporary landing page for my GitHub profile. It invites you to make **suggestions** or **recommendations** either by creating a new branch:
+This project is to create a temporary landing page for my GitHub profile. It invites you to make **suggestions** or **recommendations**. You can do this by creating a new remote branch directly:
 
-In your terminal, 
+Click on the branch icon (second from left):
 
+![Screenshot of GitHub branch icon] (https://drive.google.com/file/d/1Rv3bMlnVXb3SHr9qZ375nOXWia3HjmcL/view?usp=share_link)
 
-I am a relative newcomer to coding. If you have any **suggestions** or **recommendations** please create a branch to this main directory. Alternatively, you can email me at david.watkins.technology@gmail.com.
+Select the green 'New branch' button in the top-right corner:
+
+![Screenshot of the 'New branch' button] (https://drive.google.com/file/d/1kEeIhlOg2eYaXQmR3TWTTi303yLRjVxs/view?usp=share_link)
+
+Name your branch and nominate yourself as the owner, and it should appear as a subsidiary of the main repository:
+
+![Screenshot of branch index] (https://drive.google.com/file/d/1JuR5Puy2anpoPW0_6aapHpVCJChny9-N/view?usp=share_link)
+
+Or, if you would like to download this remote repository to your local machine, open up your terminal and navigate to the folder in which you want to store the repository. Type the following into the terminal and press return:
+
+**git init**
+
+This will initialise your directory as a Git repository. Type the following and press return:
+
+**git clone https://github.com/David-Watkins-technology/David-Watkins-technology**
+
+You will then be able to work on the project locally before uploading your commits to the remote repository as a new branch.
+
+To upload your commits, in your terminal type the following and press return:
+
+**git remote add [create an alias] https://github.com/David-Watkins-technology/David-Watkins-technology**
+
+Then type the following in your terminal and press return:
+
+**git push [alias] [branch name]**
 
 I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
 
