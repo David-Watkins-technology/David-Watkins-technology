@@ -10,9 +10,9 @@
 
 ### The name of this project is David-Watkins-technology
 
-This project is to create a temporary landing page for my GitHub profile. It invites you to make **suggestions** or **recommendations**. You can do this by creating a new remote branch directly:
+This project is to create a temporary landing page for my GitHub profile. I invite you to make **suggestions** or **recommendations**. You can do this by creating a new remote branch directly:
 
-Click on the branch icon (second from left):
+Click on the branch(es) icon (second from left):
 
 ![Screenshot of GitHub branch icon] (https://drive.google.com/file/d/1Rv3bMlnVXb3SHr9qZ375nOXWia3HjmcL/view?usp=share_link)
 
@@ -24,7 +24,7 @@ Name your branch and nominate yourself as the owner, and it should appear as a s
 
 ![Screenshot of branch index] (https://drive.google.com/file/d/1JuR5Puy2anpoPW0_6aapHpVCJChny9-N/view?usp=share_link)
 
-Or, if you would like to download this remote repository to your local machine, open up your terminal and navigate to the folder in which you want to store the repository. Type the following into the terminal and press return:
+Or, if you would like to download this remote repository to your local machine, follow these steps: open up your terminal and navigate to the folder in which you want to store the repository. Type the following into the terminal and press return:
 
 **git init**
 
