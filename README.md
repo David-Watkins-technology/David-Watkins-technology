@@ -1,16 +1,19 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://computerhistory.org/wp-content/uploads/2019/07/algorithmic_music_hiller2.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/R.a15a0c8febd146c239724daa942679e4?rik=0kNK6f09sSzghg&riu=http%3a%2f%2f1.bp.blogspot.com%2f_Qy92ZWX6mbE%2fS7-IcMa_piI%2fAAAAAAAAA0o%2f37aAH9enhhE%2fs1600%2fMissile%2bshop_LCDM%2b92241244.jpg&ehk=cQ%2fyKj9OQlCoIaoI0MQDvejh7yeaIP%2f2AjQf%2fVzQUHg%3d&risl=&pid=ImgRaw&r=0">
+ <img alt="Composer Lajaran Hiller getting to grips with an older computer" src="https://computerhistory.org/wp-content/uploads/2019/07/algorithmic_music_hiller2.jpg">
+</picture>
 
-<!--
-**David-Watkins-technology/David-Watkins-technology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Welcome to the GitHub landing page for David Watkins Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a relative newcomer to coding. If you have any **suggestions** or **recommendations** please create a branch to this main directory. Alternatively, you can email me at david.watkins.technology@gmail.com.
+
+I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
+
+Please enjoy looking around!
+
+
+David 
+
+Pronouns: *he*, *him*, *his*
