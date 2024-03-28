@@ -34,15 +34,19 @@ This will initialise your directory as a Git repository. Type the following and 
 
 You will then be able to work on the project locally before uploading your commits to the remote repository as a new branch.
 
-First, save your file using a different name to that in the remote repository. This will create a separate branch. After having revised the file, in your terminal type the following and press return:
+First, save your file using a different name to that in the remote repository. Then add that file within the repository on your local machine using the terminal instruction:
 
-**git checkout -b [revised file name]**
+**git add new-file-name.suffix**
+
+After having revised the file, in your terminal type the following and press return:
+
+**git checkout -b [new-file-name]**
 
 Then type the following in your terminal and press return:
 
 **git commit -m "Describe briefly the changes you made"**
 
-**git push origin [revised branch name]**
+**git push origin [new-file-name]**
 
 I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
 
