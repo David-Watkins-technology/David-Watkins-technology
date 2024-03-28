@@ -34,7 +34,7 @@ This will initialise your directory as a Git repository. Type the following and 
 
 You will then be able to work on the project locally before uploading your commits to the remote repository as a new branch.
 
-To upload your commits, in your terminal type the following and press return:
+To upload your commits, first create a new remote branch using the instructions above. Then, in your terminal type the following and press return:
 
 **git remote add [create an alias] https://github.com/David-Watkins-technology/David-Watkins-technology**
 
