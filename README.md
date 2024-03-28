@@ -40,6 +40,7 @@ First, save your file using a different name to that in the remote repository. T
 
 Then type the following in your terminal and press return:
 
+**git commit -m "Describe briefly the changes you made"**
 **git push origin [revised branch name]**
 
 I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
