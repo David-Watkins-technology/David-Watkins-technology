@@ -36,7 +36,7 @@ You will then be able to work on the project locally before uploading your commi
 
 To upload your commits, first create a new remote branch using the instructions above. Then, in your terminal type the following and press return:
 
-**git remote add [create an alias] https://github.com/David-Watkins-technology/David-Watkins-technology**
+**git remote add [create an alias] [branch URL]**
 
 Then type the following in your terminal and press return:
 
