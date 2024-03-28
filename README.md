@@ -8,6 +8,13 @@
 
 ### Welcome to the GitHub landing page for David Watkins Technology
 
+## The name of this project is David-Watkins-technology
+
+This project is to create a temporary landing page for my GitHub profile. It invites you to make **suggestions** or **recommendations** either by creating a new branch:
+
+In your terminal, 
+
+
 I am a relative newcomer to coding. If you have any **suggestions** or **recommendations** please create a branch to this main directory. Alternatively, you can email me at david.watkins.technology@gmail.com.
 
 I'm currently learning Python through the HyperionDev Software Engineering Bootcamp. If you too are interested in developing your coding skills, I would recommend HyperionDev. You can find them here: https://www.hyperiondev.com.
