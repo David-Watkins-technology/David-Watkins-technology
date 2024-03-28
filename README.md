@@ -8,7 +8,7 @@
 
 ### Welcome to the GitHub landing page for David Watkins Technology
 
-## The name of this project is David-Watkins-technology
+### The name of this project is David-Watkins-technology
 
 This project is to create a temporary landing page for my GitHub profile. It invites you to make **suggestions** or **recommendations**. You can do this by creating a new remote branch directly:
 
